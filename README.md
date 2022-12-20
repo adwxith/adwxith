@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/adwxith_" target="blank"><img src="https://img.shields.io/twitter/follow/adwxith_?logo=twitter&style=for-the-badge" alt="adwxith_" /></a> </p>
 
-- 🌱 I’m currently learning **Dsa,Web development**
 
 - 💬 Ask me about **nothing**
 
